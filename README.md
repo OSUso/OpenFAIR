@@ -30,13 +30,16 @@ For whatever reason on my computer one of the plots doesn't show and I need to p
 Useful resources I looked at to get this done:
 
 David F. Severski
+
 https://gist.github.com/davidski/8490758
 
 https://github.com/davidski/evaluator
 
 Jay Jacobs:
+
 http://datadrivensecurity.info/blog/posts/2014/Jan/severski/
 
 Open FAIR™ Tool with SIPmath™ Distributions: Guide to the Theory of Operation
+
 https://publications.opengroup.org/g181
 
