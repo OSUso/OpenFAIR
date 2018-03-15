@@ -31,6 +31,7 @@ Useful resources I looked at to get this done:
 
 David F. Severski
 https://gist.github.com/davidski/8490758
+
 https://github.com/davidski/evaluator
 
 Jay Jacobs:
