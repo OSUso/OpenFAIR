@@ -19,7 +19,7 @@ Since there isn't a GUI, you have to do a few things manually in the code itself
 
 There is a section in the code where you need to set a few variables, it looks like this:
 
-# ===== You need to change the following variables as needed ===
+===== You need to change the following variables as needed ===
 Scenario_1 <- 1 # <- Define which scenario from the CSV to use
 Scenario_2 <- 2 # <- Define which scenario from the CSV to use. if you are running only 1 scenario set the same as the first
 scenarios <- 2 # <- Set number of Scenarios 1 or 2? ====
