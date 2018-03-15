@@ -13,7 +13,7 @@ If the script works as planned, it should be able to run two FAIR simulations an
 Data is fed through a CSV files (FAIR_input.csv). Don't mess with the structure of that file. Add and remove rows but keep the columns as is. I had a quick look at "shiny" to see how to do a GUI, but that looked too complicated and I don't have that much free time.
 
 The simulation includes all FAIR building blocks under Loss Event Frequency but only Primary Loss Magnitude incl. the six loss categories.
-I haven't figured out yet how to include secondary loss magnitude.
+I haven't figured out yet how to include secondary loss magnitude. Maybe I spend some time on that, maybe I won't.
 
 Since there isn't a GUI, you have to do a few things manually in the code itself.
 
